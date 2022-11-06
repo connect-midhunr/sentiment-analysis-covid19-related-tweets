@@ -32,11 +32,18 @@ The given challenge is to build a classification model to predict the sentiment 
 6.	Modelling data.
 7.	Conclusion.
 
+## :book: Text Processing
+
+<li>Stemming is used for text normalization since getting base words is more crucial than the meaning of words to determine whether the message is positive or not.</li> 
+<li>TF-IDF was used for feature extraction from text since just the importance of words also needs to be considered.</li> 
+
 ## :book: Modelling
 
-<li>Four different algorithms were tried out to find out which one performs the best.</li> 
-<li>TF-IDF was used for feature extraction from text since just the importance of words also needs to be considered.</li> 
-<li>Both of these processes were combined in a pipeline.</li>
+Four different algorithms were tried out to find out which one performs the best.
+1. Logistic Regression
+2. Random Forest
+3. Naive Bayes
+4. Support Vector Machine
 
 ## 📘: Conclusion
 
