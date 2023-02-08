@@ -34,7 +34,7 @@ The given challenge is to build a classification model to predict the sentiment 
 
 ## :book: Text Processing
 
-<li>Stemming is used for text normalization since getting base words is more crucial than the meaning of words to determine whether the message is positive or not.</li> 
+<li>Lemmatization is used for text normalization since meaning of words is more crucial than the getting base words to determine which class the text data belongs to.</li> 
 <li>TF-IDF was used for feature extraction from text since just the importance of words also needs to be considered.</li> 
 
 ## :book: Modelling
