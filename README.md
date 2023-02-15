@@ -47,7 +47,7 @@ Four different algorithms were tried out to find out which one performs the best
 
 ## 📘: Conclusion
 
-<img src="Images/result_twitter_2.png" alt="Result">
+<img src="Images/result_covid.png" alt="Result">
 The model built using logistic regression algorithm has the highest accuracy, followed by the one using SVM.
 Therefore logistic regression model can be used for sentiment analysis.
 
